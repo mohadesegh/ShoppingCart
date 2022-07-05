@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mohadesegh/ShoppingCart.git/static/css/main.63446e95.css",
+    "main.js": "/mohadesegh/ShoppingCart.git/static/js/main.d1780d5e.js",
+    "index.html": "/mohadesegh/ShoppingCart.git/index.html",
+    "static/media/shop.svg": "/mohadesegh/ShoppingCart.git/static/media/shop.2123e512621599840c57cfb215576ffc.svg",
+    "static/media/trash.svg": "/mohadesegh/ShoppingCart.git/static/media/trash.3b106fc6789b1ff09aba8a30ae7dc1ed.svg",
+    "main.63446e95.css.map": "/mohadesegh/ShoppingCart.git/static/css/main.63446e95.css.map",
+    "main.d1780d5e.js.map": "/mohadesegh/ShoppingCart.git/static/js/main.d1780d5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63446e95.css",
+    "static/js/main.d1780d5e.js"
+  ]
+}
